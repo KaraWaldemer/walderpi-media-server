@@ -1,1 +1,1 @@
-# WalderPi Media Center Client
+# WalderPi Media Center Server
