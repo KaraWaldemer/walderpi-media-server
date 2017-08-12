@@ -34,6 +34,8 @@
     "jade": "~1.11.0",
     "lodash": "~4.17.4",
     "node-cache": "~4.1.1",
+    "pg": "6.0.3",
+    "pg-promise": "5.2.7",
     "promise": "~8.0.0",
     "superagent": "~3.5.2",
     "superagent-promise": "~1.1.0"
